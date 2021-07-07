@@ -2,10 +2,13 @@
 //
 
 #include <iostream>
+#include "my_class.h"
 
 int main()
 {
     std::cout << "Hello World!\n";
+    MyClass mc;
+    std::cout << mc.is_connect();
 }
 
 // 프로그램 실행: <Ctrl+F5> 또는 [디버그] > [디버깅하지 않고 시작] 메뉴
