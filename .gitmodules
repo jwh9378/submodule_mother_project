@@ -1,0 +1,3 @@
+[submodule "main/submodule_mother_project/UnitTest/submodule_child_project"]
+	path = main/submodule_mother_project/UnitTest/submodule_child_project
+	url = https://github.com/jwh9378/submodule_child_project.git
